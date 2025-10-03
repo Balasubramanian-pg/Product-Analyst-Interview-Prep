@@ -1,4 +1,4 @@
-Of course. Running a root-cause analysis (RCA) is a systematic process for identifying the fundamental, underlying reason for a problem or event. The goal isn't just to fix the symptom, but to eliminate the cause, preventing the problem from recurring.
+Running a root-cause analysis (RCA) is a systematic process for identifying the fundamental, underlying reason for a problem or event. The goal isn't just to fix the symptom, but to eliminate the cause, preventing the problem from recurring.
 
 Here is a comprehensive guide on how to run a root-cause analysis, from preparation to implementation.
 
