@@ -1,5 +1,3 @@
-I can help you understand this responsibility or create materials to support it. This describes a key UX Research or Product Insights role. Let me break down the key components:
-
 ## Core Activities
 
 **Consumer Research Methods:**
