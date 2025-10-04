@@ -33,5 +33,3 @@ Here are a few that trip people up:
    FROM (SELECT * FROM employees WHERE active = 1) AS active_emps
    GROUP BY dept_id;
    ```
-
-Would you like me to add real-world business-style ones too, like KPIs or sales-based subqueries?
