@@ -2,7 +2,6 @@
 
 An **event taxonomy** is a structured classification system that organizes events into categories and subcategories based on their shared characteristics. Think of it as a "family tree" or a "filing system" for events, making them easy to find, analyze, and manage.
 
----
 
 ### The Detailed Explanation
 
